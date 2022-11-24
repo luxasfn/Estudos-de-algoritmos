@@ -1,10 +1,14 @@
 algoritmo "ex-9"
+//  
+//  
 // Disciplina: [Algoritmo e Lógica de Programação]
 // Professor: Guanabara
 // Autor: Luxasfn
 // Data: 01/10/2021
 
-{}
+//9) Faça um algoritmo que leia quanto dinheiro uma pessoa
+//tem na carteira (em R$)e mostre quantos dólares ela pode
+//comprar. Considere US$1,00 = R$3,45.
 
 // Seção de Declarações 
 var
